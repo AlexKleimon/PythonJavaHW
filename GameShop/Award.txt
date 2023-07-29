@@ -1,0 +1,3 @@
+Награда 1: id: 3, name: Pig, freq: 70
+Награда 2: id: 4, name: Dog, freq: 87
+Награда 3: id: 1, name: Duck, freq: 48
