@@ -1,4 +1,4 @@
-package GameShop;
+package GameShop.Model;
 
 import java.util.ArrayList;
 

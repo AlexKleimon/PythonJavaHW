@@ -1,5 +1,8 @@
 package GameShop;
 
+import GameShop.Model.PlayedToys;
+import GameShop.Model.Toy;
+
 public class Presenter {
     protected PlayedToys pt;
     protected View v;

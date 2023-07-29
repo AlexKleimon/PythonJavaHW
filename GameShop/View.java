@@ -3,6 +3,8 @@ package GameShop;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import GameShop.Model.Toy;
+
 public class View {
     protected Scanner sc = new Scanner(System.in);
 
